@@ -15,6 +15,7 @@ A simple and effective Task Manager built in C++ for the terminal. This command-
 ├── Tasks.csv           // Stores all tasks
 ├── main.cpp            // Source code
 └── README.md
+└── [task-manager-cli.png]     // Screenshot of output terminal
 
 💡 Learning Goals
 Practiced manual file I/O with CSV
